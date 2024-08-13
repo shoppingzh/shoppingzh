@@ -12,12 +12,12 @@
 
 **我的博客**
 
-[https://zhengxiaoping.xyz/](https://zhengxiaoping.xyz/)
+[https://shoppingzh-book.vercel.app](https://shoppingzh-book.vercel.app)
 
 **我的demos**
 
-[https://demos.zhengxiaoping.xyz](https://demos.zhengxiaoping.xyz)
+[https://demo-home.vercel.app](https://demo-home.vercel.app)
 
 **我的中后台模板**
 
-[https://vue.zhengxiaoping.xyz](https://vue.zhengxiaoping.xyz)
+[https://vue-template-mocha.vercel.app](https://vue-template-mocha.vercel.app)
